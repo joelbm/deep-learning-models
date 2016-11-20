@@ -6,10 +6,12 @@
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 
 '''
+
 from __future__ import print_function
 
 import numpy as np
 import warnings
+import Image
 
 from keras.models import Model
 from keras.layers import Flatten, Dense, Input
@@ -19,7 +21,12 @@ from keras.utils.layer_utils import convert_all_kernels_in_model
 from keras.utils.data_utils import get_file
 from keras import backend as K
 from imagenet_utils import decode_predictions, preprocess_input
-
+# jbt added
+import matplotlib.pyplot as plt
+from PIL import Image, ImageFile
+ImageFile.LOAD_TRUNCATED_IMAGES = True
+import glob, os
+execfile('quantization.py')
 
 TH_WEIGHTS_PATH = 'https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_th_dim_ordering_th_kernels.h5'
 TF_WEIGHTS_PATH = 'https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels.h5'
@@ -151,15 +158,46 @@ def VGG16(include_top=True, weights='imagenet',
     return model
 
 
-if __name__ == '__main__':
-    model = VGG16(include_top=True, weights='imagenet')
+#if __name__ == '__main__':
+      
+os.chdir("./dataset/")
+nb_images = 0
+result = 0
 
-    img_path = 'elephant.jpg'
-    img = image.load_img(img_path, target_size=(224, 224))
-    x = image.img_to_array(img)
-    x = np.expand_dims(x, axis=0)
-    x = preprocess_input(x)
-    print('Input image shape:', x.shape)
+for file in glob.glob("*.jpg"):
+  model = VGG16(include_top=True, weights='imagenet')
+  
+  img = image.load_img(file, target_size=(224, 224))
+  x = image.img_to_array(img)
+  x = np.expand_dims(x, axis=0)
+  x = preprocess_input(x)
+  preds = model.predict(x)
+  # Quantization of the model
+  if nb_images == 0: # Do it only once.
+    nb_wq = [7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,3,3,3] # each element of the vector quantizes 1 layer.
+    nb_iq = 6
+    qsf   = 0 # Quantize Starting From layer number qsf
+    all_weights_bu = back_up()
+    non_zero = cnz(all_weights_bu)
+    print('Number of MBytes used by weights     : ', non_zero*32/float(8*1024**2)) 
+    modelq = model
+    all_weightsq = q_weights(nb_wq,all_weights_bu, qsf)
+    xq = q_inputs(x, nb_iq)
+    non_zeroq = cntz_bits(all_weightsq, nb_wq)
+    print('Memory MBytes used by weights        : ', non_zeroq/float(8*1024**2))
+  
+  predsq = modelq.predict(x)
+  print('NON Q predicted : ', decode_predictions(preds))
+  print('    Q predicted : ', decode_predictions(predsq))
 
-    preds = model.predict(x)
-    print('Predicted:', decode_predictions(preds))
+
+  result += evaluate_q(preds, predsq)
+  # Number of images evaluated
+  nb_images += 1
+ 
+  print('Number of images evaluated : ', nb_images)
+  print('Percentage of matches      : ', result/float(nb_images))
+
+os.chdir("../.")
+
+
