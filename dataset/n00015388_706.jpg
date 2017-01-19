@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Dierentuin.nl</title>
+	
+		
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, nofollow">
+  <meta name="Description" CONTENT="Niets zo leuk als een dagje dierentuin maar vermoeiend is het wel. Combineer daarom een dagje dierentuin met een overnachting en ga er een paar dagen tussen uit. Wedden dat u uitgerust weer thuis komt? ">
+  
+  <link rel="icon" href="/images/favicon.png" sizes="22x22" type="image/png">
+	<link rel="icon" href="/favicon.ico" sizes="22x22" type="image/x-icon">
+  
+  <!-- Theme Styles -->
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/font-awesome.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/animate.min.css">
+  
+  <!-- Current Page Styles -->
+  <link rel="stylesheet" type="text/css" href="/components/revolution_slider/css/settings.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/components/revolution_slider/css/style.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/components/jquery.bxslider/jquery.bxslider.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/components/flexslider/flexslider.css" media="screen" />
+  
+  <!-- Main Style -->
+  <link id="main-style" rel="stylesheet" href="/css/style.css">
+  
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="/css/custom.css">
+
+  <!-- Updated Styles -->
+  <link rel="stylesheet" href="/css/updates.css">
+  
+  <!-- Responsive Styles -->
+  <link rel="stylesheet" href="/css/responsive.css">
+  
+  <!-- CSS for IE -->
+  <!--[if lte IE 9]>
+      <link rel="stylesheet" type="text/css" href="css/ie.css" />
+  <![endif]-->
+  
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script type='text/javascript' src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+  <![endif]-->
+  
+	</head>
+<body>
+	<div id="page-wrapper">
+		
+		<header id="header" class="navbar-static-top">
+
+    <div class="topnav hidden-xs">
+        <div class="container">
+            <ul class="quick-menu pull-right">
+                <li><a href="/contact">contact</a></li><li><a href="/over-ons">over ons</a></li><li><a href="/offerte-op-maat">offerte op maat</a></li><li><a href="/top-10">Top 10</a></li>            </ul>
+        </div>
+    </div>
+
+    <div class="main-header">
+
+        <a href="#mobile-menu-01" data-toggle="collapse" class="mobile-menu-toggle">
+            Mobiel menu
+        </a>
+
+        <div class="container">
+            <h1 class="logo navbar-brand">
+                <a href="/" title="Dierentuin.nl">
+                                            Dierentuin .nl                                    </a>
+            </h1>
+
+            <nav id="main-menu" role="navigation">
+                <ul class="menu">
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                                                    <li class="menu-item-has-children">
+                                    <a href="#">
+                                        Thema's                                    </a>
+                                                                            <ul>
+                                                                                            <li>
+                                                    <a href="/naar_de_dierentuin/index.html">Dierentuin</a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                <li class="menu-item-has-children">
+                                    <a href="#">
+                                        Bestemmingen                                    </a>
+                                                                            <ul>
+                                                                                            <li>
+                                                    <a href="/drenthe/index.html">Drenthe</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="/flevoland/index.html">Flevoland</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="/gelderland/index.html">Gelderland</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="/limburg/index.html">Limburg</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="/utrecht/index.html">Utrecht</a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                <li class="menu-item-has-children megamenu-menu">
+                                <a href="#">
+                                    Regio's
+                                </a>
+                                <ul>
+                                                                                                                        <li>
+                                                <a href="/arnhem/index.html">
+                                                    Arnhem                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/gelderse-vallei/index.html">
+                                                    Gelderse Vallei                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/heuvelland/index.html">
+                                                    Heuvelland                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/hondsrug/index.html">
+                                                    Hondsrug                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/oostelijk-flevoland/index.html">
+                                                    Oostelijk Flevoland                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/rijn/index.html">
+                                                    Rijn                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/utrechtse-heuvelrug/index.html">
+                                                    Utrechtse Heuvelrug                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/veluwe/index.html">
+                                                    Veluwe                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/veluwezoom/index.html">
+                                                    Veluwezoom                                                </a>
+                                            </li>
+                                                                                                            </ul>
+                            </li>
+                                                <li><a href="#" class="contact-phone"><i
+                                class="soap-icon-phone"></i>&nbsp;088-5405815</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <nav id="mobile-menu-01" class="mobile-menu collapse">
+            <ul id="mobile-primary-menu" class="menu">
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                                            <li class="menu-item-has-children">
+                                <a href="#"
+                                   data-target="#mobile-menu-submenu-item-0"
+                                   data-toggle="collapse">Thema's</a>
+                                <ul>
+                                                                            <li>
+                                            <a href="/naar_de_dierentuin/index.html">Dierentuin</a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                                        <li class="menu-item-has-children">
+                                <a href="#"
+                                   data-target="#mobile-menu-submenu-item-1"
+                                   data-toggle="collapse">Bestemmingen</a>
+                                <ul>
+                                                                            <li>
+                                            <a href="/drenthe/index.html">Drenthe</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="/flevoland/index.html">Flevoland</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="/gelderland/index.html">Gelderland</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="/limburg/index.html">Limburg</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="/utrecht/index.html">Utrecht</a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                            
+                        <li class="menu-item-has-children">
+                            <a href="#" data-target="#mobile-menu-submenu-item-0" data-toggle="collapse">
+                                Regio's
+                            </a>
+                            <ul>
+                                                                    <li>
+                                        <a href="/naar_de_dierentuin/index.html">Dierentuin</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                        
+                        <li class="menu-item-has-children">
+                            <a href="#" data-target="#mobile-menu-submenu-item-1" data-toggle="collapse">
+                                Regio's
+                            </a>
+                            <ul>
+                                                                    <li>
+                                        <a href="/drenthe/index.html">Drenthe</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/flevoland/index.html">Flevoland</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/gelderland/index.html">Gelderland</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/limburg/index.html">Limburg</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/utrecht/index.html">Utrecht</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                    </ul>
+
+            <ul class="mobile-topnav container">
+                <li><a href="/contact">contact</a></li><li><a href="/over-ons">over ons</a></li><li><a href="/offerte-op-maat">offerte op maat</a></li><li><a href="/top-10">Top 10</a></li>            </ul>
+
+        </nav>
+    </div>
+</header>		
+		<div class="page-title-container">
+            <div class="container">
+                <div class="page-title pull-left">
+                    <h2 class="entry-title">Dierentuin.nl</h2>
+                </div>
+                <ul class="breadcrumbs pull-right">
+                    <li><a href="/">HOME</a></li>
+                                    </ul>
+            </div>
+        </div>
+		
+        <section id="content">
+			<div class="container">
+			  <div id="main">
+            <div class="row">
+                <div class="col-sm-4 col-md-3">
+                    <h4 class="search-results-title"><i class="soap-icon-search"></i><b>9</b> resultaten gevonden.</h4>
+                    <div class="toggle-container filters-container">
+                    		<div class="panel style1 arrow-right">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" href="#q-filter" class="">Zoekwoord</a>
+                            </h4>
+                            <div id="q-filter" class="panel-content panel-collapse collapse in">
+                            	 <div class="panel-content with-icon full-width" id="q-search">
+                               		<input type="text" name="q" value="" placeholder="Geef je zoekwoorden in" class="input-text full-width">
+                                	<button class="icon green-bg white-color"><i class="soap-icon-search"></i></button>
+                               </div>
+                            </div>
+                        </div>
+                    	
+                                                <div class="panel style1 arrow-right hidden-xs">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" href="#trip-categories-filter" class="">Thema's</a>
+                            </h4>
+                            <div id="trip-categories-filter" class="panel-collapse collapse in">
+                                <div class="panel-content">
+                                    <ul class="check-square filters-option">
+                                                                                <li><a href="/naar_de_dierentuin/index.html">Dierentuin<small>(9)</small></a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                                                
+                                                <div class="panel style1 arrow-right hidden-xs">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" href="#trip-provinces-filter" class="">Provincie</a>
+                            </h4>
+                            <div id="trip-provinces-filter" class="panel-collapse collapse in">
+                                <div class="panel-content">
+                                    <ul class="check-square filters-option">
+                                                                                <li><a href="/drenthe/index.html">Drenthe<small>(1)</small></a></li>
+                                                                                <li><a href="/flevoland/index.html">Flevoland<small>(1)</small></a></li>
+                                                                                <li><a href="/gelderland/index.html">Gelderland<small>(5)</small></a></li>
+                                                                                <li><a href="/limburg/index.html">Limburg<small>(1)</small></a></li>
+                                                                                <li><a href="/utrecht/index.html">Utrecht<small>(1)</small></a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                       
+                                                    <div class="panel style1 arrow-right hidden-xs">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#trip-regions-filter" class="collapsed">Regio</a>
+                                </h4>
+                                <div id="trip-regions-filter" class="panel-collapse collapse">
+                                    <div class="panel-content">
+                                        <ul class="check-square filters-option">
+                                                                                            <li><a href="/arnhem/index.html">Arnhem<small>(1)</small></a></li>
+                                                                                            <li><a href="/gelderse-vallei/index.html">Gelderse Vallei<small>(3)</small></a></li>
+                                                                                            <li><a href="/heuvelland/index.html">Heuvelland<small>(1)</small></a></li>
+                                                                                            <li><a href="/hondsrug/index.html">Hondsrug<small>(1)</small></a></li>
+                                                                                            <li><a href="/oostelijk-flevoland/index.html">Oostelijk Flevoland<small>(1)</small></a></li>
+                                                                                            <li><a href="/rijn/index.html">Rijn<small>(3)</small></a></li>
+                                                                                            <li><a href="/utrechtse-heuvelrug/index.html">Utrechtse Heuvelrug<small>(1)</small></a></li>
+                                                                                            <li><a href="/veluwe/index.html">Veluwe<small>(5)</small></a></li>
+                                                                                            <li><a href="/veluwezoom/index.html">Veluwezoom<small>(2)</small></a></li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                                                <div class="panel style1 arrow-right hidden-xs">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" href="#trip-cities-filter" class="">Plaatsen</a>
+                            </h4>
+                            <div id="trip-cities-filter" class="panel-collapse collapse in">
+                                <div class="panel-content">
+                                    <ul class="check-square filters-option">
+                                                                                <li><a href="/biddinghuizen/index.html">Biddinghuizen<small>(1)</small></a></li>
+                                                                                <li><a href="/dieren/index.html">Dieren<small>(1)</small></a></li>
+                                                                                <li><a href="/doorwerth/index.html">Doorwerth<small>(1)</small></a></li>
+                                                                                <li><a href="/ellecom/index.html">Ellecom<small>(1)</small></a></li>
+                                                                                <li><a href="/exloo/index.html">Exloo<small>(1)</small></a></li>
+                                                                                <li><a href="/landgraaf/index.html">Landgraaf<small>(1)</small></a></li>
+                                                                                <li><a href="/rhenen/index.html">Rhenen<small>(1)</small></a></li>
+                                                                                <li><a href="/wageningen/index.html">Wageningen<small>(2)</small></a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                                             
+                      
+                      
+                                              
+                        <div class="panel style1 arrow-right hidden-xs">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" href="#price-filter" class="">Budget</a>
+                            </h4>
+                            <div id="price-filter" class="panel-collapse collapse in">
+                                <div class="panel-content">
+                                    <div id="price-range"></div>
+                                    <br />
+                                    <span class="min-price-label pull-left"></span>
+                                    <span class="max-price-label pull-right"></span>
+                                    <input type="hidden" value="" name="min-price" class="min-price-value">
+                                    <input type="hidden" value="" name="max-price" class="max-price-value">
+                                    <div class="clearer"></div>
+                                </div><!-- end content -->
+                            </div>
+                        </div>
+												
+                                                <div class="panel style1 arrow-right hidden-xs">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" href="#rating-filter" class="collapse">Beoordeling</a>
+                            </h4>
+                            <div id="rating-filter" class="panel-collapse collapse in filters-container">
+                                <div class="panel-content">
+                                    <div id="rating" class="five-stars-container editable-rating"></div>
+                                    <br />
+                                    <input type="hidden" name="min-reviews" value="" class="min-reviews" >
+                                    <small>26 REVIEWS</small>
+                                </div>
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+                <div class="col-sm-8 col-md-9">
+                    <div class="sort-by-section clearfix hidden-xs">
+                        <h4 class="sort-by-title block-sm">Sorteren:</h4>
+                        <ul class="sort-bar clearfix block-sm">
+                        		<li class="sort-by-name "><a class="sort-by-container" href="titel.html"><span>titel</span></a></li>
+                            <li class="sort-by-price "><a class="sort-by-container" href="prijs.html"><span>bedrag</span></a></li>
+                            <li class="clearer visible-sms"></li>
+                            <li class="sort-by-rating  "><a class="sort-by-container" href="beoordeling.html"><span>waardering</span></a></li>
+                            <li class="sort-by-popularity "><a class="sort-by-container" href="populair.html"><span>populair</span></a></li>
+                            <li class="sort-by-newest "><a class="sort-by-container" href="nieuwste.html"><span>nieuwste</span></a></li>
+												</ul>
+                        <ul class="swap-tiles clearfix block-sm">
+                            <li class="swap-list">
+                                <a href="list.html"><i class="soap-icon-list"></i></a>
+                            </li>
+                            <li class="swap-grid active">
+                                <a href="grid.html"><i class="soap-icon-grid"></i></a>
+                            </li>
+                                                    </ul>
+                    </div>
+                    <div class="hotel-list">
+	<div class="row image-box hotel listing-style1">
+				<div class="col-sm-6 col-md-4 clearfixer">
+		  <article class="box">
+	        <figure>
+					            <a title="" href="pretpark_arrangement_met_hotelovernachting___kies_uit_dolfinarium_of_walibi_holland.html" class="hover-effect">
+		            <img height="160" width="270" src="http://img.crio.nl/pictures/providers/20150203143211_M_14148.jpg" alt="2-daags Familieuitje in Flevoland - Bezoek Walibi Holland inclusief Hotelovernachting"> 
+		          </a>
+	        </figure>
+	        <div class="details">
+	            <span class="price">
+	                <small>VANAF</small>
+	                	                  54,50	            </span>
+	            <h3 class="box-title "><a href="pretpark_arrangement_met_hotelovernachting___kies_uit_dolfinarium_of_walibi_holland.html">2-daags Familieuitje in Flevoland - Bezoek Walibi Holland inclusief Hotelovernachting</a>
+	            	<small>
+	            										</small>
+							</h3>
+								            <div class="feedback">
+	            		<div data-placement="bottom" data-toggle="tooltip" class="five-stars-container" title="4 stars"><span style="width: 90%;" class="five-stars"></span></div>
+	                <span class="review"><a class="underline" href="pretpark_arrangement_met_hotelovernachting___kies_uit_dolfinarium_of_walibi_holland.html#trip-reviews">1 review</a></span>
+	            </div>
+	            	            <p class="description">Bent u op zoek naar een leuk Familieuitje met het hele gezin? Bezoek Walibi Holland voor spanning en sensatie en blijf slapen in een comfortabel hotel.</p>
+	            <div class="action clearfix">
+	                <a class="button btn-medium green" href="pretpark_arrangement_met_hotelovernachting___kies_uit_dolfinarium_of_walibi_holland.html">Informatie</a>
+	            </div>
+	        </div>
+	    </article>
+		</div>
+				<div class="col-sm-6 col-md-4 ">
+		  <article class="box">
+	        <figure>
+					            <a title="" href="beestachtig_arrangement.html" class="hover-effect">
+		            <img height="160" width="270" src="http://img.crio.nl/pictures/providers/20150317142600_M_174.jpg" alt="Dierentuin arrangement in Gelderland - Uit met de kids"> 
+		          </a>
+	        </figure>
+	        <div class="details">
+	            <span class="price">
+	                <small>VANAF</small>
+	                	                  59,-	            </span>
+	            <h3 class="box-title box-title-border"><a href="beestachtig_arrangement.html">Dierentuin arrangement in Gelderland - Uit met de kids</a>
+	            	<small>
+	            										</small>
+							</h3>
+								            <p class="description">Een beestachtig arrangement in Wageningen. Combineer uw weekendje weg met een bezoek aan Ouwehands Dierenpark.</p>
+	            <div class="action clearfix">
+	                <a class="button btn-medium green" href="beestachtig_arrangement.html">Informatie</a>
+	            </div>
+	        </div>
+	    </article>
+		</div>
+																																		<div class="col-sm-6 col-md-4 ">
+		  <article class="box">
+	        <figure>
+					            <a title="" href="burgers___zoo_familie_uitje.html" class="hover-effect">
+		            <img height="160" width="270" src="http://img.crio.nl/pictures/providers/20110825131616_M_203.jpg" alt="Burgers' Zoo Familie uitje - familiehotel Doorwerth op de Veluwe - super familieweekend"> 
+		          </a>
+	        </figure>
+	        <div class="details">
+	            <span class="price">
+	                <small>VANAF</small>
+	                	                  130,-	            </span>
+	            <h3 class="box-title "><a href="burgers___zoo_familie_uitje.html">Burgers' Zoo Familie uitje - familiehotel Doorwerth op de Veluwe - super familieweekend</a>
+	            	<small>
+	            										</small>
+							</h3>
+								            <div class="feedback">
+	            		<div data-placement="bottom" data-toggle="tooltip" class="five-stars-container" title="4 stars"><span style="width: 80%;" class="five-stars"></span></div>
+	                <span class="review"><a class="underline" href="burgers___zoo_familie_uitje.html#trip-reviews">22 reviews</a></span>
+	            </div>
+	            	            <p class="description">Met deze familieweekend aanbieding beleeft het hele gezin een ware ontdekkingstocht door jungle, savanne, woestijn en oceanen. Gezellig een familieuitje in Burgers Zoo en 2 nachtjes slapen op de Veluwe. Maak er een gezellig weekendje van!</p>
+	            <div class="action clearfix">
+	                <a class="button btn-medium green" href="burgers___zoo_familie_uitje.html">Informatie</a>
+	            </div>
+	        </div>
+	    </article>
+		</div>
+				<div class="col-sm-6 col-md-4 clearfixer">
+		  <article class="box">
+	        <figure>
+					            <a title="" href="zoo_experience_in_burgers_zoo_ouwehands_artis_blijdorp.html" class="hover-effect">
+		            <img height="160" width="270" src="http://img.crio.nl/pictures/providers/20101019091515_M_733.jpg" alt="Zoo Experience - Groepsuitje in de dierentuin"> 
+		          </a>
+	        </figure>
+	        <div class="details">
+	            <span class="price">
+	                <small>VANAF</small>
+	                	                  40,-	            </span>
+	            <h3 class="box-title box-title-border"><a href="zoo_experience_in_burgers_zoo_ouwehands_artis_blijdorp.html">Zoo Experience - Groepsuitje in de dierentuin</a>
+	            	<small>
+	            										</small>
+							</h3>
+								            <p class="description">Ervaar de verschillende dierenparken eens op een unique manier! Een uitje met vrienden of familie dat u niet snel zult vergeten en een echte aanrader als u de dierenwereld eens op een andere manier wilt ontdekken.</p>
+	            <div class="action clearfix">
+	                <a class="button btn-medium green" href="zoo_experience_in_burgers_zoo_ouwehands_artis_blijdorp.html">Informatie</a>
+	            </div>
+	        </div>
+	    </article>
+		</div>
+				<div class="col-sm-6 col-md-4 ">
+		  <article class="box">
+	        <figure>
+					            <a title="" href="gaiazoo_familie_arrangement_in_zuid_limburg.html" class="hover-effect">
+		            <img height="160" width="270" src="http://img.crio.nl/pictures/providers/20140225132507_M_13279.jpg" alt="GaiaZOO familie arrangement in Zuid-Limburg"> 
+		          </a>
+	        </figure>
+	        <div class="details">
+	            <span class="price">
+	                <small>VANAF</small>
+	                	                  133,-	            </span>
+	            <h3 class="box-title "><a href="gaiazoo_familie_arrangement_in_zuid_limburg.html">GaiaZOO familie arrangement in Zuid-Limburg</a>
+	            	<small>
+	            										</small>
+							</h3>
+								            <div class="feedback">
+	            		<div data-placement="bottom" data-toggle="tooltip" class="five-stars-container" title="4 stars"><span style="width: 90%;" class="five-stars"></span></div>
+	                <span class="review"><a class="underline" href="gaiazoo_familie_arrangement_in_zuid_limburg.html#trip-reviews">2 reviews</a></span>
+	            </div>
+	            	            <p class="description">U verblijft met uw gezin in een fraai hotel. Op loopafstand is GaiaZOO gelegen waar u een dagje kunt genieten van een adembenemende wereld van dier en natuur. Maak er een heerlijk weekendje weg van met het hele gezin genieten in het prachtige Zuid-Limburg.</p>
+	            <div class="action clearfix">
+	                <a class="button btn-medium green" href="gaiazoo_familie_arrangement_in_zuid_limburg.html">Informatie</a>
+	            </div>
+	        </div>
+	    </article>
+		</div>
+				<div class="col-sm-6 col-md-4 ">
+		  <article class="box">
+	        <figure>
+					            <a title="" href="dagje_burgers_zoo_en_overnachten_op_de_veluwe.html" class="hover-effect">
+		            <img height="160" width="270" src="http://img.crio.nl/pictures/providers/20140312163259_M_2307.jpg" alt="2=1 Burgers Zoo familieweekend aanbieding op de Veluwe"> 
+		          </a>
+	        </figure>
+	        <div class="details">
+	            <span class="price">
+	                <small>VANAF</small>
+	                	                  97,-	            </span>
+	            <h3 class="box-title box-title-border"><a href="dagje_burgers_zoo_en_overnachten_op_de_veluwe.html">2=1 Burgers Zoo familieweekend aanbieding op de Veluwe</a>
+	            	<small>
+	            										</small>
+							</h3>
+								            <p class="description">Gezellig met het hele gezin genieten van een weekendje weg op de Veluwe. Tijdens dit weekend kunt u genieten van een dagje Burgers Zoo en leuke activiteiten op het park doen. Geniet van een diner in het restaurant, u slaapt in een hotelchalet en geniet van een heerlijk ontbijtbuffet. Profiteer van deze SUPER voordelige Burgers Zoo familie aanbieding, de speciale 2=1 aanbieding. U betaalt 1 nacht en de 2e krijgt u er GRATIS bij!</p>
+	            <div class="action clearfix">
+	                <a class="button btn-medium green" href="dagje_burgers_zoo_en_overnachten_op_de_veluwe.html">Informatie</a>
+	            </div>
+	        </div>
+	    </article>
+		</div>
+																									<div class="col-sm-6 col-md-4 clearfixer">
+		  <article class="box">
+	        <figure>
+					            <a title="" href="beestachtig_arrangement_in_wageningen.html" class="hover-effect">
+		            <img height="160" width="270" src="http://img.crio.nl/pictures/providers/20150318111047_M_9057.jpg" alt="2-Daags dierentuin familieweekend in Gelderland - TOP hotel in het bos"> 
+		          </a>
+	        </figure>
+	        <div class="details">
+	            <span class="price">
+	                <small>VANAF</small>
+	                	                  127,-	            </span>
+	            <h3 class="box-title "><a href="beestachtig_arrangement_in_wageningen.html">2-Daags dierentuin familieweekend in Gelderland - TOP hotel in het bos</a>
+	            	<small>
+	            										</small>
+							</h3>
+								            <div class="feedback">
+	            		<div data-placement="bottom" data-toggle="tooltip" class="five-stars-container" title="4 stars"><span style="width: 90%;" class="five-stars"></span></div>
+	                <span class="review"><a class="underline" href="beestachtig_arrangement_in_wageningen.html#trip-reviews">1 review</a></span>
+	            </div>
+	            	            <p class="description">Verblijf op één van de mooiste locaties van Nederland. Vanuit dit hotel, gelegen in een bosrijke omgeving, brengt u een bezoek aan Burgers' Zoo in Arnhem.</p>
+	            <div class="action clearfix">
+	                <a class="button btn-medium green" href="beestachtig_arrangement_in_wageningen.html">Informatie</a>
+	            </div>
+	        </div>
+	    </article>
+		</div>
+				<div class="col-sm-6 col-md-4 ">
+		  <article class="box">
+	        <figure>
+					            <a title="" href="beestachtig_arrangement_in_ellecom.html" class="hover-effect">
+		            <img height="160" width="270" src="http://img.crio.nl/pictures/providers/20150318134339_M_3522.jpg" alt="Burgers Zoo familiehotel arrangement op Landgoed in Gelderland"> 
+		          </a>
+	        </figure>
+	        <div class="details">
+	            <span class="price">
+	                <small>VANAF</small>
+	                	                  179,-	            </span>
+	            <h3 class="box-title box-title-border"><a href="beestachtig_arrangement_in_ellecom.html">Burgers Zoo familiehotel arrangement op Landgoed in Gelderland</a>
+	            	<small>
+	            										</small>
+							</h3>
+								            <p class="description">Een weekendje weg met het hele gezin in een luxe hotel gecombineerd met een dagje uit naar Burgers Zoo. Super leuk gezinsuitje op de Veluwe!</p>
+	            <div class="action clearfix">
+	                <a class="button btn-medium green" href="beestachtig_arrangement_in_ellecom.html">Informatie</a>
+	            </div>
+	        </div>
+	    </article>
+		</div>
+				<div class="col-sm-6 col-md-4 ">
+		  <article class="box">
+	        <figure>
+					            <a title="" href="3_daags_wildlands_adventure_zoo_arrangement.html" class="hover-effect">
+		            <img height="160" width="270" src="http://img.crio.nl/pictures/providers/20090915113101_M_2937.jpg" alt="3-daags Wildlands Adventure Zoo Arrangement"> 
+		          </a>
+	        </figure>
+	        <div class="details">
+	            <span class="price">
+	                <small>VANAF</small>
+	                	                  139,-	            </span>
+	            <h3 class="box-title box-title-border"><a href="3_daags_wildlands_adventure_zoo_arrangement.html">3-daags Wildlands Adventure Zoo Arrangement</a>
+	            	<small>
+	            										</small>
+							</h3>
+								            <p class="description">Speciaal voor gezinnen en dierenliefhebbers is dit arrangement een absolute aanrader. Een dagje naar Wildlands Adventure Zoo en verblijven in een prachtig 4-sterren hotel met faciliteiten als bowlingbanen, restaurant, golfbaan en eigen wellness. Kortom, een arrangement voor iedereen!</p>
+	            <div class="action clearfix">
+	                <a class="button btn-medium green" href="3_daags_wildlands_adventure_zoo_arrangement.html">Informatie</a>
+	            </div>
+	        </div>
+	    </article>
+		</div>
+	</div>
+</div>                                    </div>
+                <div class="col-sm-12 visible-xs-block">
+                    <div class="toggle-container filters-container">
+                                                    <div class="panel style1 arrow-right">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#mobile-trip-categories-filter" class="collapsed">Thema's</a>
+                                </h4>
+                                <div id="mobile-trip-categories-filter" class="panel-collapse collapse">
+                                    <div class="panel-content">
+                                        <ul class="check-square filters-option">
+                                                                                            <li><a href="/naar_de_dierentuin/index.html">Dierentuin<small>(9)</small></a></li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                                                    <div class="panel style1 arrow-right">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#mobile-trip-provinces-filter" class="collapsed">Regio</a>
+                                </h4>
+                                <div id="mobile-trip-provinces-filter" class="panel-collapse collapse">
+                                    <div class="panel-content">
+                                        <ul class="check-square filters-option">
+                                                                                            <li><a href="/drenthe/index.html">Drenthe<small>(1)</small></a></li>
+                                                                                            <li><a href="/flevoland/index.html">Flevoland<small>(1)</small></a></li>
+                                                                                            <li><a href="/gelderland/index.html">Gelderland<small>(5)</small></a></li>
+                                                                                            <li><a href="/limburg/index.html">Limburg<small>(1)</small></a></li>
+                                                                                            <li><a href="/utrecht/index.html">Utrecht<small>(1)</small></a></li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                                                    <div class="panel style1 arrow-right">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#mobile-trip-cities-filter" class="collapsed">Plaatsen</a>
+                                </h4>
+                                <div id="mobile-trip-cities-filter" class="panel-collapse collapse">
+                                    <div class="panel-content">
+                                        <ul class="check-square filters-option">
+                                                                                            <li><a href="/biddinghuizen/index.html">Biddinghuizen<small>(1)</small></a></li>
+                                                                                            <li><a href="/dieren/index.html">Dieren<small>(1)</small></a></li>
+                                                                                            <li><a href="/doorwerth/index.html">Doorwerth<small>(1)</small></a></li>
+                                                                                            <li><a href="/ellecom/index.html">Ellecom<small>(1)</small></a></li>
+                                                                                            <li><a href="/exloo/index.html">Exloo<small>(1)</small></a></li>
+                                                                                            <li><a href="/landgraaf/index.html">Landgraaf<small>(1)</small></a></li>
+                                                                                            <li><a href="/rhenen/index.html">Rhenen<small>(1)</small></a></li>
+                                                                                            <li><a href="/wageningen/index.html">Wageningen<small>(2)</small></a></li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+			
+    </section>
+    
+    <footer id="footer">
+    <div class="footer-wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-md-3">
+                		                    <h2>Onze voordelen</h2>
+                    <ul class="check box">
+                    	<li>Gratis advies</li>
+<li>Uitjes met de beste prijs-kwaliteit</li>
+<li>Cadeaupunten bij uw boekingen</li>
+<li>Exclusieve aanbiedingen</li>
+<li>100% plezier garantie</li>
+<li>Complete uitjes</li>
+                  	</ul>
+                                    </div>
+                <div class="col-sm-6 col-md-3">
+                		                </div>
+                <div class="col-sm-6 col-md-3">
+                    <h2>Over Dierentuin .nl</h2>
+                    <p>Niets zo leuk als een dagje dierentuin maar vermoeiend is het wel. Combineer daarom een dagje dierentuin met een overnachting en ga er een paar dagen tussen uit. Wedden dat u uitgerust weer thuis komt? </p>
+               	</div>
+               	<div class="col-sm-6 col-md-3">
+                    <address class="contact-details">
+                        <span class="contact-phone"><i class="soap-icon-phone"></i> 088-5405815</span>
+                        <br />
+                        <a href="mailto:reserveringen@enjoy.nl" class="contact-email">088-5405815</a>
+                    </address>                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom gray-area">
+        <div class="container">
+            <div class="pull-left" style="padding-top:23px;">
+                <a href="/" title="Dierentuin .nl">
+                    Dierentuin .nl                </a>
+                                is powered by Recreatief.nl                                
+            </div>
+            <div class="pull-left" style="padding:18px 0px 0px 20px;">
+                <ul class="quick-menu">
+                    <li><a href="/contact">contact</a></li><li><a href="/over-ons">over ons</a></li><li><a href="/offerte-op-maat">offerte op maat</a></li><li><a href="/top-10">Top 10</a></li>                </ul>
+            </div>
+            <div class="pull-right">
+                <a id="back-to-top" href="#" class="animated" data-animation-type="bounce"><i class="soap-icon-longarrow-up circle"></i></a>
+            </div>
+            <div class="copyright pull-right">
+                <p>&copy; 2017 Dierentuin .nl</p>
+            </div>
+        </div>
+    </div>
+</footer>    
+  </div>
+	
+	 <!-- Javascript -->
+    <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.noconflict.js"></script>
+    <script type="text/javascript" src="/js/modernizr.2.7.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui.1.10.4.min.js"></script>
+    
+    <!-- Twitter Bootstrap -->
+    <script type="text/javascript" src="/js/bootstrap.js"></script>
+    
+    <!-- load revolution slider scripts -->
+    <script type="text/javascript" src="/components/revolution_slider/js/jquery.themepunch.plugins.min.js"></script>
+    <script type="text/javascript" src="/components/revolution_slider/js/jquery.themepunch.revolution.min.js"></script>
+    
+    <!-- load BXSlider scripts -->
+    <script type="text/javascript" src="/components/jquery.bxslider/jquery.bxslider.min.js"></script>
+    
+    <!-- load FlexSlider scripts -->
+    <script type="text/javascript" src="/components/flexslider/jquery.flexslider-min.js"></script>
+    
+    <!-- Google Map Api -->
+    <script type='text/javascript' src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en"></script>
+    <script type="text/javascript" src="/js/gmap3.min.js"></script>
+    
+    <!-- parallax -->
+    <script type="text/javascript" src="/js/jquery.stellar.min.js"></script>
+    
+    <!-- waypoint -->
+    <script type="text/javascript" src="/js/waypoints.min.js"></script>
+
+    <!-- load page Javascript -->
+    <script type="text/javascript" src="/js/theme-scripts.js"></script>
+    <script type="text/javascript" src="/js/scripts.js"></script>
+    
+    <script type="text/javascript">
+        tjq(document).ready(function() {
+            tjq("#price-range").slider({
+                range: true,
+                min: 0,
+                max: 2000,
+                values: [ 10, 1750 ],
+                slide: function( event, ui ) {
+                    tjq(".min-price-label").html( "€" + ui.values[ 0 ]);
+                    tjq(".max-price-label").html( "€" + ui.values[ 1 ]);
+                    tjq(".min-price-value").val( ui.values[ 0 ]);
+                    tjq(".max-price-value").val( ui.values[ 1 ]);
+                                        
+                },
+                stop: function( event, ui ) {
+                  location.href = '/zoeken/?min-price='+ui.values[0]+'&max-price='+ui.values[1];
+                }
+            });
+            tjq(".min-price-label").html( "€" + tjq("#price-range").slider( "values", 0 ));
+            tjq(".max-price-label").html( "€" + tjq("#price-range").slider( "values", 1 ));
+            
+            tjq(".min-price-value").val( tjq("#price-range").slider( "values", 0 ));
+            tjq(".max-price-value").val( tjq("#price-range").slider( "values", 1 ));
+            
+            tjq("#rating").slider({
+                range: "min",
+                value: 70,
+                min: 0,
+                max: 100,
+                slide: function( event, ui ) {
+                    tjq(".min-reviews").val( ui.value);
+                },
+                stop: function( event, ui ) {
+                  location.href = '/zoeken/'+'?reviews='+ui.value;
+                }
+            });
+            
+            tjq("#q-search button").click(function(){
+            	location.href = '/zoeken/?q='+tjq("#q-search input").val();
+            });
+            
+            tjq("#q-search input").keyup(function(e){
+					   	if(e.keyCode == 13){
+					    	location.href = '/zoeken/?q='+tjq("#q-search input").val();
+					    }
+						});
+        });
+    </script>
+</body>
+</html>

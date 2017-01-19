@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Aquarius Age - Free Psychic Chat &amp; Clairvoyant Readings</title>
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.aquariusage.com/xmlrpc.php">
+	
+	<!--[if lt IE 9]>
+		<script src="http://www.aquariusage.com/wp-content/themes/psychic/js/html5.js"></script>
+	<![endif]-->
+	<link rel="alternate" href="http://www.aquariusage.com/" hreflang="en" />
+	<link rel="stylesheet" type="text/css" id="normalize-css" media="all" href="http://www.aquariusage.com/wp-content/themes/psychic/css/normalize.css">
+	<link rel="stylesheet" type="text/css" id="iconfonts-css" media="all" href="http://www.aquariusage.com/wp-content/themes/psychic/css/font-icons.css">
+	<link rel="stylesheet" type="text/css" id="core-css" media="all" href="http://www.aquariusage.com/wp-content/themes/psychic/css/core.css">
+	<link rel="stylesheet" type="text/css" id="theme-css" media="all" href="http://www.aquariusage.com/wp-content/themes/psychic/style.css">
+	<link rel="shortcut icon" type="image/png" href="http://www.aquariusage.com/wp-content/themes/psychic/favicon.png">
+	<link href='http://fonts.googleapis.com/css?family=Oleo+Script:400,700' rel='stylesheet' type='text/css'>
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Welcome to our online network of talented psychics. Whether you’re looking for advice, guidance, or future predictions, you’ll find the answers to all your questions."/>
+<link rel="canonical" href="http://www.aquariusage.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Aquarius Age - Free Psychic Chat &amp; Clairvoyant Readings" />
+<meta property="og:description" content="Welcome to our online network of talented psychics. Whether you’re looking for advice, guidance, or future predictions, you’ll find the answers to all your questions." />
+<meta property="og:url" content="http://www.aquariusage.com/" />
+<meta property="og:site_name" content="Aquarius Age" />
+<meta property="og:image" content="http://www.aquariusage.com/wp-content/uploads/2014/05/home-banner.jpg" />
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://www.aquariusage.com/", "potentialAction": { "@type": "SearchAction", "target": "http://www.aquariusage.com/?s={search_term}", "query-input": "required name=search_term" } }</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    (function() {
+      var shr = document.createElement('script');
+      shr.setAttribute('data-cfasync', 'false');
+      shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+      shr.type = 'text/javascript'; shr.async = 'true';
+      shr.onload = shr.onreadystatechange = function() {
+        var rs = this.readyState;
+        if (rs && rs != 'complete' && rs != 'loaded') return;
+        var site_id = '1f926f0b4d19ef517259cc496f1bc752';
+        var page_config = {"apps":{"share_buttons":{"get_share_counts":  function(url, services, cb) {
+    Shareaholic.Utils.ajax({
+      cache: true,
+      cache_ttl: '1 minute',
+      url: 'http://www.aquariusage.com/wp-admin/admin-ajax.php',
+      data: { action: 'shareaholic_share_counts_api', url: url, services: services },
+      success: function(res) {
+        if(res && res.data) {
+          cb(res.data, true);
+        }
+      }
+    })
+  }}}};
+        try { Shareaholic.init(site_id, page_config); } catch (e) {}
+      };
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(shr, s);
+    })();
+  //]]>
+</script>
+<meta name="shareaholic:analytics" content="disabled" />
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Aquarius Age' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:site_id' content='1f926f0b4d19ef517259cc496f1bc752' />
+<meta name='shareaholic:wp_version' content='7.4.0.8' />
+
+<!-- Shareaholic Content Tags End -->
+<link rel='stylesheet' id='formidable-css'  href='http://www.aquariusage.com/wp-content/uploads/formidable/css/formidablepro.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.aquariusage.com/wp-content/themes/psychic/js/vendor/modernizr.js'></script>
+</head>
+
+<body class="home page page-id-6 page-template page-template-page-templateshome-page-php">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-55QMTP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-55QMTP');</script>
+<!-- End Google Tag Manager -->
+<div id="page" class="hfeed site off-canvas-wrap">
+	<div class="inner-wrap">
+		<nav class="tab-bar hide-for-large-up">
+			<section class="left-small">
+				<a class="left-off-canvas-toggle menu-icon" ><span></span></a>
+			</section>
+			<section class="middle tab-bar-section">
+				<h3 class="title">Aquarius Age</h3>
+			</section>
+		</nav>
+		
+		<aside class="left-off-canvas-menu">
+			<ul id="menu-main-menu" class="off-canvas-list"><li class="divider"></li><li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item active menu-item-52 active"><a href="http://www.aquariusage.com/">Home</a></li>
+<li class="divider"></li><li id="menu-item-148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148"><a href="http://www.aquariusage.com/psychic-readings/">Psychic Readings</a></li>
+<li class="divider"></li><li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="http://www.aquariusage.com/psychic-chat/">Psychic Chat</a></li>
+<li class="divider"></li><li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="http://www.aquariusage.com/dream-interepretation/">Dream Analysis</a></li>
+<li class="divider"></li><li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://www.aquariusage.com/fortune-telling/">Fortune Telling</a></li>
+<li class="divider"></li><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.aquariusage.com/astrology/">Astrology</a></li>
+<li class="divider"></li><li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://www.aquariusage.com/love-relationship/">Love &#038; Relationship</a></li>
+<li class="divider"></li><li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://www.aquariusage.com/tarot-reading/">Tarot Reading</a></li>
+<li class="divider"></li><li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.aquariusage.com/past-life-reading/">Past Life Reading</a></li>
+<li class="divider"></li><li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://www.aquariusage.com/numerology/">Numerology</a></li>
+</ul>		</aside>
+		
+		<header id="masthead" class="site-header" role="banner">
+			<div class="row">
+				<div class="columns small-8"><a href="http://www.aquariusage.com"><img src="http://www.aquariusage.com/wp-content/themes/psychic/images/logo.png"></a></div>
+				<div class="columns small-4">
+					<div class="social-media">
+					<a href="https://www.facebook.com/aquariusagepsychics"><img src="http://www.aquariusage.com/wp-content/themes/psychic/images/facebook-icon.png"></a>
+					<a href="https://plus.google.com/115736960901869302793"><img src="http://www.aquariusage.com/wp-content/themes/psychic/images/gplus-icon.png"></a>
+					<a href="https://twitter.com/AquariusPsychic"><img src="http://www.aquariusage.com/wp-content/themes/psychic/images/twitter-icon.png"></a>
+					<a href="https://www.youtube.com/channel/UCnHZwqe3XvZrsT1J0pZ5KRg"><img src="http://www.aquariusage.com/wp-content/themes/psychic/images/youtube-icon.png"></a>
+					</div>
+				</div>
+			</div><!-- .row -->
+		</header><!-- #masthead -->
+		
+		<div class="top-bar-container contain-to-grid show-for-large-up">
+			<nav class="top-bar" data-topbar="">
+				<section class="top-bar-section">
+					<ul id="menu-main-menu-1" class="header-menu"><li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item active menu-item-52 active"><a href="http://www.aquariusage.com/">Home</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148"><a href="http://www.aquariusage.com/psychic-readings/">Psychic Readings</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="http://www.aquariusage.com/psychic-chat/">Psychic Chat</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="http://www.aquariusage.com/dream-interepretation/">Dream Analysis</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://www.aquariusage.com/fortune-telling/">Fortune Telling</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.aquariusage.com/astrology/">Astrology</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://www.aquariusage.com/love-relationship/">Love &#038; Relationship</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://www.aquariusage.com/tarot-reading/">Tarot Reading</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.aquariusage.com/past-life-reading/">Past Life Reading</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://www.aquariusage.com/numerology/">Numerology</a></li>
+</ul>				</section>
+			</nav>
+		</div>      <div id="subheader">
+	<div class="wrap">
+	    <div class="offer">
+		<h3>Get 3 Minutes Free!</h3>
+ 		<a href="http://LivePerson.7eer.net/c/95567/115443/847" class="btn">Click Here</a>
+	    </div>
+	</div>
+		<img width="2200" height="320" src="http://www.aquariusage.com/wp-content/uploads/2014/05/home-banner.jpg" class="attachment-post-thumbnail wp-post-image" alt="home-banner" />    </div>
+  		<section id="main" class="site-main" role="document">
+			<div class="row">	<div id="content" class="columns small-12 large-9 site-content" role="main">
+		<div class="content-area">
+			<article id="post-6" class="post-6 page type-page status-publish has-post-thumbnail hentry">
+				<header class="entry-header">
+					<h1 class="entry-title">Live Psychics and Free Psychic Readings</h1>
+				</header>
+				
+				<div class="entry-content">
+				<p>Welcome to our online network of talented psychics. Whether you’re looking for advice, guidance, psychic readings, or future predictions, you’ll find the answers to all your questions when you chat live with our psychics.</p>
+<p>Among our skilled psychics and clairvoyants, you’ll find experts in Tarot readings, astrology, love and relationships, numerology, dream analysis and interpretation, and much more. Search our database for the intuitive psychic that interests you, and experience a free, live psychic reading through our advanced video chat system.</p>
+<p><a href="http://www.aquariusage.com/go/live-person/">Register now for free</a>, and receive the guidance you’re seeking from our psychic and spiritual experts today. </p>
+				<div class="psychics-wrap">
+				<div class="tile">
+		<div class="tile-inner">
+			<div class="name">Psychic Reader And Healer</div>
+			<div class="thumb-wrap">
+				<div class="thumb">
+					<img src="http://expertsimages.liveperson.com/experts-pictures/small/pic78793.jpg">
+				</div>
+				<div class="status">
+						Online
+				</div>
+			</div>
+			<div class="expertise">
+				<div class="psychic-category"><span>Experienced In:</span><br>Multiple Sciences</div>
+			</div>
+			<div class="description">Im A Top Ranked Love Psychic On Kasamba With Over 17,000 Reviews From Clients. I Show What Your Partner Is Thinking Right Now And Actions They Take.<br><br>
+				<a href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=readmore-Psychic-Reader-And-Healer&u=http://www.kasamba.com/session/chatstart/78793/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Read More</a>
+			</div>
+			<div class="psychic-table">
+			<table>
+			  <tbody>
+			    <tr>
+			  	<td>$ / Minute<br><span>18.61</span></td>
+			  	<td>Ratings<br><span>4.89</span></td>
+			  	<td>Reviews<br><span>17516</span></td>
+			    </tr>
+			  </tbody>
+			</table>
+			</div>
+			<div class="button-wrap">
+				<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=chat-Psychic-Reader-And-Healer&u=http://www.kasamba.com/session/chatstart/78793/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Lets Chat</a>	<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=email-Psychic-Reader-And-Healer&u=http://www.kasamba.com/session/sendemail/78793/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Email</a> 
+			</div>
+		</div>
+	</div><div class="tile">
+		<div class="tile-inner">
+			<div class="name">Love Stefans Psychic Soul</div>
+			<div class="thumb-wrap">
+				<div class="thumb">
+					<img src="http://expertsimages.liveperson.com/experts-pictures/small/pic678559.jpg">
+				</div>
+				<div class="status">
+						Online
+				</div>
+			</div>
+			<div class="expertise">
+				<div class="psychic-category"><span>Experienced In:</span><br>Multiple Sciences</div>
+			</div>
+			<div class="description">NEED ANSWERS.? Allow me to help.Got so much going on in your life your not sure what to think anymore.? I can give you clarity today.<br><br>
+				<a href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=readmore-Love-Stefans-Psychic-Soul&u=http://www.kasamba.com/session/chatstart/678559/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Read More</a>
+			</div>
+			<div class="psychic-table">
+			<table>
+			  <tbody>
+			    <tr>
+			  	<td>$ / Minute<br><span>4.99</span></td>
+			  	<td>Ratings<br><span>4.91</span></td>
+			  	<td>Reviews<br><span>11320</span></td>
+			    </tr>
+			  </tbody>
+			</table>
+			</div>
+			<div class="button-wrap">
+				<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=chat-Love-Stefans-Psychic-Soul&u=http://www.kasamba.com/session/chatstart/678559/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Lets Chat</a>	<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=email-Love-Stefans-Psychic-Soul&u=http://www.kasamba.com/session/sendemail/678559/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Email</a> 
+			</div>
+		</div>
+	</div><div class="tile">
+		<div class="tile-inner">
+			<div class="name">David James Psychic Wisdom</div>
+			<div class="thumb-wrap">
+				<div class="thumb">
+					<img src="http://expertsimages.liveperson.com/experts-pictures/small/pic106252.jpg">
+				</div>
+				<div class="status">
+						Online
+				</div>
+			</div>
+			<div class="expertise">
+				<div class="psychic-category"><span>Experienced In:</span><br>Multiple Sciences</div>
+			</div>
+			<div class="description">One of the most sought after psychics on the web, over 30,000 reviews. Together we can find the happiness, that you deserve.<br><br>
+				<a href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=readmore-David-James-Psychic-Wisdom&u=http://www.kasamba.com/session/chatstart/106252/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Read More</a>
+			</div>
+			<div class="psychic-table">
+			<table>
+			  <tbody>
+			    <tr>
+			  	<td>$ / Minute<br><span>8.99</span></td>
+			  	<td>Ratings<br><span>4.85</span></td>
+			  	<td>Reviews<br><span>32778</span></td>
+			    </tr>
+			  </tbody>
+			</table>
+			</div>
+			<div class="button-wrap">
+				<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=chat-David-James-Psychic-Wisdom&u=http://www.kasamba.com/session/chatstart/106252/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Lets Chat</a>	<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=email-David-James-Psychic-Wisdom&u=http://www.kasamba.com/session/sendemail/106252/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Email</a> 
+			</div>
+		</div>
+	</div><div class="tile">
+		<div class="tile-inner">
+			<div class="name">Mrs Donna</div>
+			<div class="thumb-wrap">
+				<div class="thumb">
+					<img src="http://expertsimages.liveperson.com/experts-pictures/small/pic1369373.jpg">
+				</div>
+				<div class="status">
+						Online
+				</div>
+			</div>
+			<div class="expertise">
+				<div class="psychic-category"><span>Experienced In:</span><br>Multiple Sciences</div>
+			</div>
+			<div class="description">German Psychic Reader; here to help YOU with all your questions.. no sugarcoating..<br><br>
+				<a href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=readmore-Mrs-Donna&u=http://www.kasamba.com/session/chatstart/1369373/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Read More</a>
+			</div>
+			<div class="psychic-table">
+			<table>
+			  <tbody>
+			    <tr>
+			  	<td>$ / Minute<br><span>6.99</span></td>
+			  	<td>Ratings<br><span>4.97</span></td>
+			  	<td>Reviews<br><span>5496</span></td>
+			    </tr>
+			  </tbody>
+			</table>
+			</div>
+			<div class="button-wrap">
+				<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=chat-Mrs-Donna&u=http://www.kasamba.com/session/chatstart/1369373/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Lets Chat</a>	<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=email-Mrs-Donna&u=http://www.kasamba.com/session/sendemail/1369373/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Email</a> 
+			</div>
+		</div>
+	</div><div class="tile">
+		<div class="tile-inner">
+			<div class="name">Accurate Love Readings</div>
+			<div class="thumb-wrap">
+				<div class="thumb">
+					<img src="http://expertsimages.liveperson.com/experts-pictures/small/pic506386.jpg">
+				</div>
+				<div class="status">
+						Online
+				</div>
+			</div>
+			<div class="expertise">
+				<div class="psychic-category"><span>Experienced In:</span><br>Multiple Sciences</div>
+			</div>
+			<div class="description">help in love life? need guidance? want to know the outcome of your relationship?~no sugarcoating~no false promises~fast typer~I have the power to help you<br><br>
+				<a href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=readmore-Accurate-Love-Readings&u=http://www.kasamba.com/session/chatstart/506386/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Read More</a>
+			</div>
+			<div class="psychic-table">
+			<table>
+			  <tbody>
+			    <tr>
+			  	<td>$ / Minute<br><span>1.99</span></td>
+			  	<td>Ratings<br><span>4.83</span></td>
+			  	<td>Reviews<br><span>9362</span></td>
+			    </tr>
+			  </tbody>
+			</table>
+			</div>
+			<div class="button-wrap">
+				<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=chat-Accurate-Love-Readings&u=http://www.kasamba.com/session/chatstart/506386/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Lets Chat</a>	<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=email-Accurate-Love-Readings&u=http://www.kasamba.com/session/sendemail/506386/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Email</a> 
+			</div>
+		</div>
+	</div><div class="tile">
+		<div class="tile-inner">
+			<div class="name">Love Psychic Michael G</div>
+			<div class="thumb-wrap">
+				<div class="thumb">
+					<img src="http://expertsimages.liveperson.com/experts-pictures/small/pic172657.jpg">
+				</div>
+				<div class="status">
+						Online
+				</div>
+			</div>
+			<div class="expertise">
+				<div class="psychic-category"><span>Experienced In:</span><br>Multiple Sciences</div>
+			</div>
+			<div class="description">CLAIRVOYANT ENERGY taken to the ABSOLUTE limits of SPIRITUAL TRUTH.  SPECIFIC and HONEST answers. Lightning fast.<br><br>
+				<a href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=readmore-Love-Psychic-Michael-G&u=http://www.kasamba.com/session/chatstart/172657/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Read More</a>
+			</div>
+			<div class="psychic-table">
+			<table>
+			  <tbody>
+			    <tr>
+			  	<td>$ / Minute<br><span>7.61</span></td>
+			  	<td>Ratings<br><span>4.86</span></td>
+			  	<td>Reviews<br><span>10850</span></td>
+			    </tr>
+			  </tbody>
+			</table>
+			</div>
+			<div class="button-wrap">
+				<a class="btn btn-medium third" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=call-Love-Psychic-Michael-G&u=http://www.kasamba.com/session/chatstart/172657/?mode=popup&CatID=1119&isPhone=true&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Call</a> <a class="btn btn-medium third" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=chat-Love-Psychic-Michael-G&u=http://www.kasamba.com/session/chatstart/172657/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Chat</a> <a class="btn btn-medium third" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=email-Love-Psychic-Michael-G&u=http://www.kasamba.com/session/sendemail/172657/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Email</a>
+			</div>
+		</div>
+	</div><div class="tile">
+		<div class="tile-inner">
+			<div class="name">SPIRITUAL INSIGHTS by LEE</div>
+			<div class="thumb-wrap">
+				<div class="thumb">
+					<img src="http://expertsimages.liveperson.com/experts-pictures/small/pic56932.jpg">
+				</div>
+				<div class="status">
+						Online
+				</div>
+			</div>
+			<div class="expertise">
+				<div class="psychic-category"><span>Experienced In:</span><br>Multiple Sciences</div>
+			</div>
+			<div class="description">"Wonderful reading very impressed, fast and intuitive" Accurate, professional psychic reader - live chat and email.<br><br>
+				<a href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=readmore-SPIRITUAL-INSIGHTS-by-LEE&u=http://www.kasamba.com/session/chatstart/56932/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Read More</a>
+			</div>
+			<div class="psychic-table">
+			<table>
+			  <tbody>
+			    <tr>
+			  	<td>$ / Minute<br><span>9.99</span></td>
+			  	<td>Ratings<br><span>4.88</span></td>
+			  	<td>Reviews<br><span>8494</span></td>
+			    </tr>
+			  </tbody>
+			</table>
+			</div>
+			<div class="button-wrap">
+				<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=chat-SPIRITUAL-INSIGHTS-by-LEE&u=http://www.kasamba.com/session/chatstart/56932/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Lets Chat</a>	<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=email-SPIRITUAL-INSIGHTS-by-LEE&u=http://www.kasamba.com/session/sendemail/56932/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Email</a> 
+			</div>
+		</div>
+	</div><div class="tile">
+		<div class="tile-inner">
+			<div class="name">Love Readings By Sarah</div>
+			<div class="thumb-wrap">
+				<div class="thumb">
+					<img src="http://expertsimages.liveperson.com/experts-pictures/small/pic1849385.jpg">
+				</div>
+				<div class="status">
+						Online
+				</div>
+			</div>
+			<div class="expertise">
+				<div class="psychic-category"><span>Experienced In:</span><br>Multiple Sciences</div>
+			</div>
+			<div class="description">Truthful and Honest reading in the areas of Love life with my Spiritual and Psychic Abilities with the detail insight which will help you to solve your issues in your Life....<br><br>
+				<a href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=readmore-Love-Readings-By-Sarah&u=http://www.kasamba.com/session/chatstart/1849385/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Read More</a>
+			</div>
+			<div class="psychic-table">
+			<table>
+			  <tbody>
+			    <tr>
+			  	<td>$ / Minute<br><span>2.99</span></td>
+			  	<td>Ratings<br><span>4.76</span></td>
+			  	<td>Reviews<br><span>8654</span></td>
+			    </tr>
+			  </tbody>
+			</table>
+			</div>
+			<div class="button-wrap">
+				<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=chat-Love-Readings-By-Sarah&u=http://www.kasamba.com/session/chatstart/1849385/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Lets Chat</a>	<a class="btn btn-medium half" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=email-Love-Readings-By-Sarah&u=http://www.kasamba.com/session/sendemail/1849385/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Email</a> 
+			</div>
+		</div>
+	</div><div class="tile">
+		<div class="tile-inner">
+			<div class="name">Angels For You 2o17</div>
+			<div class="thumb-wrap">
+				<div class="thumb">
+					<img src="http://expertsimages.liveperson.com/experts-pictures/small/pic245887.jpg">
+				</div>
+				<div class="status">
+						Online
+				</div>
+			</div>
+			<div class="expertise">
+				<div class="psychic-category"><span>Experienced In:</span><br>Multiple Sciences</div>
+			</div>
+			<div class="description">Professional 44 years  quality guided timing remove blocks compassionate empowers reading confidential in Present Future.<br><br>
+				<a href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=readmore-Angels-For-You-2o17&u=http://www.kasamba.com/session/chatstart/245887/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Read More</a>
+			</div>
+			<div class="psychic-table">
+			<table>
+			  <tbody>
+			    <tr>
+			  	<td>$ / Minute<br><span>12.5</span></td>
+			  	<td>Ratings<br><span>4.98</span></td>
+			  	<td>Reviews<br><span>13188</span></td>
+			    </tr>
+			  </tbody>
+			</table>
+			</div>
+			<div class="button-wrap">
+				<a class="btn btn-medium third" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=call-Angels-For-You-2o17&u=http://www.kasamba.com/session/chatstart/245887/?mode=popup&CatID=1119&isPhone=true&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Call</a> <a class="btn btn-medium third" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=chat-Angels-For-You-2o17&u=http://www.kasamba.com/session/chatstart/245887/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Chat</a> <a class="btn btn-medium third" href="http://liveperson.7eer.net/c/95567/62722/847/?sharedid=email-Angels-For-You-2o17&u=http://www.kasamba.com/session/sendemail/245887/?mode=popup&CatID=1119&atid=a521bcd3-8862-4666-a9d0-be25a07216f6">Email</a>
+			</div>
+		</div>
+	</div>					<div style="clear:both;"></div>
+				</div>
+				<div class='shareaholic-canvas' data-app-id='6763635' data-app='share_buttons' data-title='Live Psychics and Free Psychic Readings' data-link='http://www.aquariusage.com/' data-summary='Welcome to our online network of talented psychics. Whether you’re looking for advice, guidance, psychic readings, or future predictions, you’ll find the answers to all your questions when you chat live with our psychics. Among our skilled psychics and clairvoyants, you’ll find experts in Tarot readings, astrology, love and relationships, numerology, dream analysis and interpretation, and much more. Search our database for the intuitive psychic that interests you, and experience a free, live psychic reading through our advanced video chat system. Register now for free, and receive the guidance you’re seeking from our psychic and spiritual experts today.'></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+		</div>
+	</div>
+	
+	<div id="sidebar" class="columns small-12 large-3 site-sidebar" role="complementary">
+	
+		<div class="row widget-area">
+
+	<aside id="frm_show_form-4" class="columns large-12 widget widget_frm_show_form"><div class="frm_form_widget frm_set_select"><h3 class="widget-title panel-heading">Newsletter Signup</h3><div class="frm_forms with_frm_style" id="frm_form_2_container">
+<form enctype="multipart/form-data" method="post" class="frm-show-form " id="form_news" >
+
+<div class="frm_form_fields  frm_page_num_1">
+<fieldset>
+<div>
+<input type="hidden" name="frm_action" value="create" />
+<input type="hidden" name="form_id" value="2" />
+<input type="hidden" name="form_key" value="news" />
+<input type="hidden" id="frm_submit_entry_2" name="frm_submit_entry_2" value="ebdbcd8e04" /><input type="hidden" name="_wp_http_referer" value="/" />
+<div id="frm_field_8_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_full">
+    <label for="field_qh4icy2" class="frm_primary_label">Name
+        <span class="frm_required">*</span>
+    </label>
+    <input type="text" id="field_qh4icy2" name="item_meta[8]" value="" />
+
+    
+    
+</div>
+<div id="frm_field_10_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_full">
+    <label for="field_29yf4d2" class="frm_primary_label">Email
+        <span class="frm_required">*</span>
+    </label>
+    <input type="email" id="field_29yf4d2" name="item_meta[10]" value="" />
+
+    
+    
+</div>
+<input type="hidden" name="item_key" value="" />
+</div>
+</fieldset>
+</div>
+<div class="frm_submit">
+
+<input class="btn full" type="submit" value="Sign Up!"  formnovalidate="formnovalidate" />
+<img class="frm_ajax_loading" src="http://www.aquariusage.com/wp-content/plugins/formidable/images/ajax_loader.gif" alt="Sending" style="visibility:hidden;" />
+
+</div></form>
+</div></div></aside><aside id="text-10" class="columns large-12 widget widget_text">			<div class="textwidget"><a href="http://LivePerson.7eer.net/c/95567/80720/847">
+	<img src="http://adn.impactradius.com/display-ad/847-80720" border="0" alt="" width="300" height="250"/>
+</a>
+<img height="1" width="1" src="http://LivePerson.7eer.net/i/95567/80720/847" border="0" /></div>
+		</aside><aside id="text-7" class="columns large-12 widget widget_text">			<div class="textwidget"><a href="http://LivePerson.7eer.net/c/95567/84033/847">
+	<img src="http://adn.impactradius.com/display-ad/847-84033" border="0" alt="" width="300" height="600"/>
+</a>
+<img height="1" width="1" src="http://LivePerson.7eer.net/i/95567/84033/847" border="0" /></div>
+		</aside>
+</div>	
+	</div>
+
+			</div><!-- .row -->
+		</section><!-- #main -->
+		
+		<footer id="colophon" class="site-footer" role="contentinfo">
+		
+			<div class="footer-widget-area">
+	<div id="footer-widget" class="row widget-area" role="complementary">
+		<aside id="text-6" class="columns large-3 widget widget_text">			<div class="textwidget">Copyright <a href="http://www.aquariusage.com">www.aquariusage.com</a> © 2014</div>
+		</aside><aside id="text-3" class="columns large-3 widget widget_text">			<div class="textwidget">Disclosure: We are a website that needs compensation to operate like any other website on the internet. We receive compensation for our referrals. All responsibilities of the purchase are the responsibilities of the merchant and in no way is Aquarius Age responsible for any of the purchases. </div>
+		</aside><aside id="nav_menu-2" class="columns large-3 widget widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-57 active"><a href="http://www.aquariusage.com/">Home</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="http://www.aquariusage.com/psychic-chat/">Free Live Psychic Chat Rooms</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://www.aquariusage.com/new-age-spirituality/">New Age Spirituality</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://www.aquariusage.com/clairvoyant-reading/">Clairvoyant Readings</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://www.aquariusage.com/blog/">Blog</a></li>
+</ul></div></aside>	</div><!-- .footer-widget -->
+</div><!-- .footer-widget-area -->		
+		</footer><!-- #colophon -->
+		
+		<a class="exit-off-canvas"></a>
+	</div><!-- .inner-wrap -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.aquariusage.com/wp-content/themes/psychic/js/vendor/jquery.js'></script>
+<script type='text/javascript' src='http://www.aquariusage.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js'></script>
+<script type='text/javascript' src='http://www.aquariusage.com/wp-content/themes/psychic/js/app.js'></script>
+<script type='text/javascript' src='http://www.aquariusage.com/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://www.aquariusage.com/wp-includes/js/masonry.min.js'></script>
+<script type='text/javascript' src='http://www.aquariusage.com/wp-includes/js/jquery/jquery.masonry.min.js'></script>
+<script type='text/javascript' src='http://www.aquariusage.com/wp-content/themes/psychic/js/functions.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var frm_js = {"ajax_url":"http:\/\/www.aquariusage.com\/wp-admin\/admin-ajax.php","images_url":"http:\/\/www.aquariusage.com\/wp-content\/plugins\/formidable\/images","loading":"Loading\u2026","remove":"Remove","offset":"4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.aquariusage.com/wp-content/plugins/formidable/js/formidable.min.js'></script>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(document).ready(function($){
+$(document).off('submit.formidable','.frm-show-form');$(document).on('submit.formidable','.frm-show-form',frmOnSubmit);
+});
+/*]]>*/
+</script>
+
+</body>
+</html>
